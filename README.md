@@ -57,32 +57,7 @@ It allows users to explore, book, and manage stays at unique homes, rooms, and v
 | **Axios / Fetch API** | API calls |
 | **Redux / Context (if used)** | State Management |
 
-## 📂 Folder Structure
 
-HomelyHub/
-│
-├── backend/ # Express + Node.js server
-│ ├── src/
-│ ├── models/
-│ ├── routes/
-│ ├── controllers/
-│ ├── config/
-│ ├── middleware/
-│ ├── package.json
-│ └── .env
-│
-├── Frontend/ # React + Vite frontend
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── store/
-│ │ ├── utils/
-│ ├── package.json
-│ ├── vite.config.js
-│ └── public/
-│
-├── .gitignore
-└── README.md
 
 
 ## ⚙️ Installation & Setup
